@@ -4,7 +4,6 @@ Data Science enthusiast with expertise in Python, machine learning, and AWS. Pas
 
 Skills: Python /  Machine Learning (Supervised Learning / Unsupervised Learning) /Scikit-learn/ Deep Learning (TensorFlow, Keras) /  MySQL / Data Visualization (Matplotlib, Seaborn, Plotly,Power BI) / Data Analysis (Pandas, NumPy, SciPy) / Statistical Analysis (Descriptive Statistics, Inferential Statistics)  / Cloud Computing (AWS(Ec2 and Deployment)) / Tools (Jupyter Notebooks, Git) / Problem-Solving / Communication
 
-- 🔭 I’m currently working on this page. 
 
 
 
