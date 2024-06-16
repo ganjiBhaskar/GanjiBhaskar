@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,machinelearning,deeplearning,tensorflow,keras,pytorch,sql,nosql,matplotlib,seaborn,plotly,tableau,powerbi,pandas,numpy,scipy,hadoop,spark,aws,gcp,azure,jupyter,gitter,docker" />
+    <img src="https://skillicons.dev/icons?i=python,r,machinelearning,deeplearning,tensorflow,keras,Mysql,matplotlib,seaborn,plotly,powerbi,pandas,numpy,scipy,streamlit,aws,jupyter" />
 </div>
 
 <br/>
