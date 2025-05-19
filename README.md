@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="Bhaskar" /> </p>
 
-- 🔭 I’m currently working on **[Generative AI and computer vision projects]**
+- 🔭 I’m currently working on **[Generative AI]**
 
 - 🌱 I’m currently learning **advanced machine learning techniques and deep learning models**
 
